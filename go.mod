@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-shortcode-starter
+module github.com/kjrstory/wowchemy-shortcode-admonition
 
 go 1.15
